@@ -11,4 +11,26 @@ Here is a list of links to some of my presentations:
 * [Image Denoising with Two-Dimensional Adaptive Filter Algorithms - Paper Report](https://docs.google.com/presentation/d/11BT5Qidg5nCEQaK__uH1DW5THfEYO4ARP6UZDIA7KxA/edit?usp=sharing) - Summer 2019
 * [Low Cost Solutions for Diabetes in Soroti, Uganda](https://docs.google.com/presentation/d/1ZhAfFlsdtEhCnt2fGXxum-f7RSblsnUZWpPdnXfUujw/edit?usp=sharing) - Spring 2018
 
-## Some nice figures :)
+## Some figures
+
+Taken from SPPPACY project:
+<p align="center">
+  <img src='iowa_yield.JPG' alt='corn yield in  Iowa from 2011 to 2019' width=640>
+  <br>
+  <sup>Visualization of corn yield at each Iowa county from 2011 to 2019. Green indicates high yield while yellow indicates low.</sup>
+</p>
+
+Taken from Remote-Sensing project 2:
+<p align="center">
+  <img src='spatial_extent.JPG' alt='Spatial extent of a dataset' width=720>
+  <br>
+  <sup>Mapping the spatial extent of a dataset to undestand distribution and possible causes of model failure. </sup>
+</p>
+
+Taken from fallback - a system to report accidents in the homes of seniors living alone:
+<p align="center">
+  <img src='falls.JPG' alt='fall statistic - every 11 seconds a senior visits the ER due to a fall' width=640>
+  <br>
+  <sup>Figure to emphasize hazard of falling for seniors</sup>
+</p>
+
