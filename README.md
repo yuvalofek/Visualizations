@@ -11,3 +11,4 @@ Here is a list of links to some of my presentations:
 * [Image Denoising with Two-Dimensional Adaptive Filter Algorithms - Paper Report](https://docs.google.com/presentation/d/11BT5Qidg5nCEQaK__uH1DW5THfEYO4ARP6UZDIA7KxA/edit?usp=sharing) - Summer 2019
 * [Low Cost Solutions for Diabetes in Soroti, Uganda](https://docs.google.com/presentation/d/1ZhAfFlsdtEhCnt2fGXxum-f7RSblsnUZWpPdnXfUujw/edit?usp=sharing) - Spring 2018
 
+## Some nice figures :)
