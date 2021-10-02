@@ -34,3 +34,19 @@ Taken from fallback - a system to report accidents in the homes of seniors livin
   <sup>Figure to emphasize hazard of falling for seniors</sup>
 </p>
 
+Taken from Op Amp for Headphone Amplification:
+<p align="center">
+  <img src='colored-op-amp.JPG' alt='op-amp-schematic color coded by role' width=720>
+  <br>
+  <sup>Op-amp design color-coded by transistor role </sup>
+</p>
+
+Taken from Low Cost Solutions for Diabetes in Soroti, Uganda:
+<p align="center">
+  <img src='app-overview0.jpg' alt='app overview - take picture, crop, extract average rgb ' width=640>
+  <img src='app-overview1.jpg' alt='app overview - compute lighness, use regression model to predict glucodse reading, display reading' width=640>
+  <br>
+  <sup>Overview of proposed application for glucose prediction using colored test strips</sup>
+</p>
+
+
