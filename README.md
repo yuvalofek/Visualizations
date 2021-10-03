@@ -38,7 +38,7 @@ Taken from Op Amp for Headphone Amplification:
 <p align="center">
   <img src='colored-op-amp.JPG' alt='op-amp-schematic color coded by role' width=720>
   <br>
-  <sup>Op-amp design color-coded by transistor role </sup>
+  <sup>Op-amp design color-coded by transistor role. Not my best visualization, but it was the culmination of a really long project and I wanted to share. </sup>
 </p>
 
 Taken from Low Cost Solutions for Diabetes in Soroti, Uganda:
